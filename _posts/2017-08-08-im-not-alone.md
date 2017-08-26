@@ -1,12 +1,16 @@
 ---
-title: 不再是一个人
+title: 这是值得记录的一天
+category: General
+excerpt: |
+  终于和我的树洞永远的在一起了。
 feature_text: |
- 这是值得记录的一天
+  ## 今日问题
+  你如何看待婚姻呢？
+feature_image: "https://unsplash.it/1200/400?image=1048"
+image: "https://unsplash.it/1200/400?image=1048"
 ---
 
-
-
-<!-- more -->
+我想，我终于和我的树洞永远的在一起了！
 
 
 

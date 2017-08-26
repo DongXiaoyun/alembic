@@ -2,10 +2,10 @@
 title: 就从问为什么开始吧！
 category: General
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  不知道从什么时候开始，我成为了一个“问题”宝宝。
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  ## 今日问题
+  如果让你问世界一个问题，你会问什么呢？
 feature_image: "https://unsplash.it/1200/400?image=1048"
 image: "https://unsplash.it/1200/400?image=1048"
 ---
